@@ -1,6 +1,6 @@
-# Arduino Servo Radar System 📡
+# Arduino-Based Ultrasonic Radar 📡 (Educational Project)
 
-A complete real-time radar system using:
+A real-time ultrasonic scanning system using:
 
 - Arduino UNO / Nano
 - SG90 Micro Servo
